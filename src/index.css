@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Páginas legais (Termos de Uso e Política de Privacidade) */
+.legal { font-family: Georgia, "Times New Roman", serif; color: #232019; font-size: 15px; line-height: 1.75; }
+.legal h1 { font-size: 26px; font-weight: 700; color: #1F3D2E; margin: 0 0 0.5rem; line-height: 1.25; }
+.legal h2 { font-size: 17px; font-weight: 700; color: #1F3D2E; margin: 2rem 0 0.5rem; }
+.legal p { margin: 0.75rem 0; }
+.legal ul, .legal ol { margin: 0.75rem 0 0.75rem 1.25rem; }
+.legal ul { list-style: disc; }
+.legal ol { list-style: decimal; }
+.legal li { margin: 0.3rem 0; }
+.legal a { color: #1F3D2E; text-decoration: underline; }
+.legal strong { font-weight: 700; }
+.legal table { display: block; overflow-x: auto; width: 100%; border-collapse: collapse; font-size: 13px; margin: 1rem 0; }
+.legal th, .legal td { border: 1px solid #E4DDC9; padding: 0.5rem 0.65rem; text-align: left; vertical-align: top; }
+.legal th { background: #EFE9D8; }
