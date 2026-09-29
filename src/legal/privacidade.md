@@ -1,104 +1,51 @@
-# Política de Privacidade
-
-**Última atualização:** [DATA DE PUBLICAÇÃO]
-
-Esta política explica como o **[NOME DO SITE]** (disponível em [ENDEREÇO DO SITE]) trata dados pessoais, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, a "LGPD").
-
-## 1. Quem é o responsável
-
-O responsável pelo tratamento dos dados (controlador) é **[NOME COMPLETO OU RAZÃO SOCIAL]**, inscrito(a) no [CPF/CNPJ] nº [NÚMERO], com sede em [CIDADE/UF].
-
-Contato para assuntos de privacidade: **[E-MAIL DE CONTATO]**
-
-## 2. Resumo
-
-- Os dados que você digita no formulário do contrato (nomes, CPF/CNPJ, endereços, valores, prazos) **ficam no seu navegador** e não são enviados aos nossos servidores.
-- Coletamos o seu **e-mail** apenas se você comprar o passe de acesso.
-- O pagamento é processado pelo **Mercado Pago**. Não temos acesso à sua senha nem aos dados de sua conta bancária ou cartão.
-- Não vendemos os seus dados.
-
-## 3. Quais dados tratamos
-
-| Dado | Quando | Para quê | Onde fica |
-|---|---|---|---|
-| **Dados do contrato** (nomes, CPF/CNPJ, endereços, descrição do serviço, valores, prazos) | Quando você preenche o formulário | Montar a prévia e o documento na sua tela | Somente no seu navegador. Não são enviados nem gravados por nós, e podem ser perdidos ao recarregar a página |
-| **E-mail** | Quando você gera o Pix | Criar a cobrança e identificar o pagamento | Enviado ao Mercado Pago e registrado junto ao pagamento. Não mantemos uma base própria de e-mails |
-| **Dados do pagamento** (identificador, valor, data, status e os dados do pagador que o Mercado Pago informar) | Quando você paga | Confirmar o pagamento, liberar o acesso, prestar suporte, cumprir obrigações fiscais e prevenir fraudes | Mercado Pago e painel da nossa conta nele |
-| **Identificador do pagamento no navegador** | Após o pagamento aprovado | Manter o seu acesso ativo durante o período contratado | No seu dispositivo (armazenamento local do navegador). É apagado automaticamente quando o acesso expira |
-| **Dados técnicos** (endereço IP, data e hora, tipo de navegador e dispositivo, páginas acessadas) | Sempre que você usa o site | Funcionamento, segurança e diagnóstico de erros | Provedor de hospedagem (Vercel) |
-| **Fontes de texto** | Ao abrir o site | Exibir as fontes da página | O seu navegador baixa as fontes dos servidores do Google, que recebem o seu endereço IP |
-
-## 4. Por que podemos tratar esses dados (bases legais)
-
-- **Execução de contrato** (art. 7º, V, da LGPD): para gerar a cobrança, confirmar o pagamento e liberar o acesso que você contratou.
-- **Cumprimento de obrigação legal ou regulatória** (art. 7º, II): para guardar registros de pagamento exigidos pela legislação fiscal e contábil.
-- **Legítimo interesse** (art. 7º, IX): para manter o site seguro, prevenir fraudes e corrigir erros, sempre respeitando os seus direitos.
-- **Consentimento** (art. 7º, I): para cookies e tecnologias não essenciais, como medição de audiência e anúncios, quando usados (veja o item 9). Você pode retirar o consentimento a qualquer momento.
-
-## 5. Com quem compartilhamos
-
-Usamos prestadores de serviço que tratam dados em nosso nome, apenas para a finalidade descrita:
-
-- **Mercado Pago (Mercado Pago Instituição de Pagamento Ltda.)**: processamento do pagamento por Pix. O tratamento que ele faz dos seus dados segue a política de privacidade dele.
-- **Vercel Inc.**: hospedagem do site e das funções que geram a cobrança.
-- **Google LLC**: fornecimento das fontes de texto [e, se você usar, ferramentas de medição e anúncios, veja o item 9].
-
-Também podemos compartilhar dados quando houver obrigação legal ou ordem de autoridade competente.
-
-**Não vendemos nem alugamos dados pessoais.**
-
-## 6. Transferência internacional
-
-Alguns prestadores acima podem tratar dados em servidores fora do Brasil. Nesses casos, buscamos prestadores que ofereçam garantias adequadas de proteção, conforme a LGPD (art. 33).
-
-## 7. Por quanto tempo guardamos os dados
-
-- **Dados de pagamento e e-mail vinculado a ele:** pelo tempo necessário para cumprir obrigações legais, fiscais e contábeis e para o exercício regular de direitos em caso de disputa.
-- **Dados técnicos:** pelo período de retenção do provedor de hospedagem, que é limitado.
-- **Identificador do pagamento no seu navegador:** até o acesso expirar, quando é removido automaticamente. Você também pode apagá-lo limpando os dados do site no navegador.
-- **Dados do contrato:** não guardamos, pois ficam apenas no seu navegador.
-
-Depois desses prazos, os dados são eliminados ou anonimizados.
-
-## 8. Seus direitos
-
-Nos termos do art. 18 da LGPD, você pode solicitar:
-
-- confirmação de que tratamos seus dados e acesso a eles;
-- correção de dados incompletos, inexatos ou desatualizados;
-- anonimização, bloqueio ou eliminação de dados desnecessários ou tratados em desconformidade;
-- portabilidade dos dados, nos termos da regulamentação;
-- informação sobre com quem compartilhamos seus dados;
-- eliminação dos dados tratados com base no seu consentimento e revogação desse consentimento;
-- oposição a tratamento feito com base em legítimo interesse, quando houver descumprimento da lei.
-
-**Como exercer:** envie um e-mail para **[E-MAIL DE CONTATO]**. Podemos pedir informações para confirmar a sua identidade. Responderemos em até 15 dias.
-
-Se entender que seus direitos não foram respeitados, você também pode reclamar à **Autoridade Nacional de Proteção de Dados (ANPD)**.
-
-## 9. Cookies e armazenamento local
-
-- **Armazenamento local (essencial):** usamos o armazenamento do navegador para guardar o identificador do seu pagamento e manter o acesso ativo. Sem ele, o passe não funciona.
-- **Medição de audiência e anúncios (opcional):** [MANTENHA ESTE TRECHO SOMENTE SE USAR FERRAMENTAS COMO GOOGLE ANALYTICS, GOOGLE ADS OU META PIXEL] Usamos [NOME DAS FERRAMENTAS] para entender como o site é usado e medir a eficácia de anúncios. Essas ferramentas podem usar cookies e coletar dados como endereço IP, páginas visitadas e origem do acesso. Só as ativamos com o seu consentimento, que você pode gerenciar ou retirar a qualquer momento [NO BANNER DE COOKIES / NO LINK "PREFERÊNCIAS DE COOKIES" DO RODAPÉ].
-
-Você pode bloquear ou apagar cookies nas configurações do navegador. Isso pode afetar o funcionamento do acesso pago.
-
-## 10. Dados de terceiros que você digita no contrato
-
-O contrato costuma incluir dados de outras pessoas, como o seu cliente. Como esses dados ficam no seu navegador e não chegam até nós, **você é o responsável por essas informações**: use-as somente para o contrato, tenha fundamento legal para tratá-las e proteja o arquivo gerado (PDF ou impressão) depois de baixá-lo.
-
-## 11. Segurança
-
-Adotamos medidas técnicas e administrativas razoáveis para proteger os dados, como conexão criptografada (HTTPS), guarda das credenciais de pagamento apenas no servidor e não gravação do conteúdo dos contratos. Nenhum sistema é totalmente seguro. Se ocorrer um incidente que possa causar risco ou dano relevante, comunicaremos você e a ANPD, conforme a lei.
-
-## 12. Crianças e adolescentes
-
-O serviço é destinado a maiores de 18 anos. Não coletamos intencionalmente dados de menores. Se identificarmos algum, providenciaremos a exclusão.
-
-## 13. Alterações nesta política
-
-Podemos atualizar esta política para refletir mudanças no serviço ou na lei. A versão em vigor é sempre a publicada nesta página, com a data de atualização no topo. Mudanças relevantes serão destacadas no site.
-
-## 14. Contato
-
-Dúvidas ou solicitações sobre privacidade: **[E-MAIL DE CONTATO]**
+Termos de Uso
+Última atualização: 28/09/2026
+Estes Termos regulam o uso do Gerador de contrato · MEI (disponível em https://doc-mei.vercel.app), oferecido por DevCore, com sede em [Duque de Caxias/RJ] ("nós"). Ao usar o site, você ("usuário") concorda com estes Termos. Se não concordar, não use o serviço.
+Trate também a nossa Política de Privacidade como parte destes Termos.
+1. O que o serviço faz
+O site é uma ferramenta online que monta modelos de contrato de prestação de serviços entre microempreendedor individual (MEI) e cliente, a partir das informações que você preenche em um formulário. O texto é gerado automaticamente e pode ser visualizado, copiado ou impresso/salvo em PDF.
+2. O que o serviço não é
+Não somos um escritório de advocacia nem prestamos assessoria ou consultoria jurídica. O uso do site não cria relação de advogado e cliente.
+Os modelos são de caráter geral e podem não se adequar ao seu caso. Contratos de maior valor ou complexidade, com regras específicas (por exemplo, relações de emprego, serviços regulamentados, propriedade intelectual sensível ou contratos com consumidores) devem ser revisados por um advogado.
+Não garantimos que o contrato gerado seja válido, completo ou adequado para a sua situação, nem que produza determinado resultado em caso de disputa.
+3. Suas responsabilidades
+Você é responsável por:
+preencher os dados de forma correta e completa e ler todo o contrato antes de assiná-lo;
+adaptar ou complementar o texto conforme o seu caso, com orientação profissional quando necessário;
+ter o direito de usar os dados de terceiros (como os do seu cliente) que inserir no contrato, e protegê-los depois de gerar o documento;
+cuidar da assinatura, da guarda do documento e do cumprimento do que foi combinado com a outra parte.
+4. Acesso gratuito e passe pago
+Sem pagamento, você pode preencher o formulário e ver uma prévia com marca d'água. Copiar o texto e imprimir ou salvar em PDF exigem um passe de acesso.
+O passe dá acesso completo ao gerador (sem marca d'água, com copiar e imprimir liberados) por 24 horas, contadas a partir da confirmação do pagamento. Durante esse período você pode gerar quantos contratos precisar.
+O valor é o exibido na tela no momento da compra (atualmente R$ 9,90). É um pagamento único, sem renovação automática.
+O pagamento é feito por Pix, processado pelo Mercado Pago. O acesso é liberado após a confirmação do pagamento, em geral em poucos segundos.
+O acesso fica vinculado ao navegador em que o pagamento foi confirmado. Se você limpar os dados do navegador ou trocar de dispositivo durante o período, pode ser necessário entrar em contato conosco.
+Podemos alterar preços e condições. A mudança não afeta passes já pagos.
+5. Reembolso
+Você pode pedir o reembolso integral em até 7 dias corridos após o pagamento, mesmo que já tenha usado o passe, conforme o direito de arrependimento do art. 49 do Código de Defesa do Consumidor.
+Para pedir, envie um e-mail para contatodevcoreinovacoes@gmail.com informando o e-mail usado na compra e a data do pagamento. O reembolso é feito por Pix ou pelo mesmo meio de pagamento em até 7 dias úteis, e o acesso é encerrado.
+Também reembolsamos em caso de cobrança duplicada ou de falha comprovada no nosso serviço que impeça o uso do passe.
+6. Uso permitido e proibições
+É proibido:
+burlar, remover ou tentar contornar a marca d'água, o bloqueio de cópia/impressão ou qualquer controle de acesso;
+compartilhar, revender ou disponibilizar o acesso pago a terceiros de forma que substitua a compra por eles;
+usar o serviço para gerar contratos com finalidade ilícita, fraudulenta ou que violem direitos de terceiros;
+fazer engenharia reversa, copiar em massa o conteúdo ou o código, ou usar robôs e rotinas automatizadas para acessar o site;
+sobrecarregar ou prejudicar o funcionamento do serviço.
+Podemos suspender ou encerrar o acesso de quem descumprir estes Termos. Em caso de suspensão indevida, o valor proporcional será devolvido.
+7. Propriedade intelectual
+O site, o seu código, o design e os modelos de cláusulas são de nossa titularidade ou licenciados a nós, e são protegidos pela legislação de propriedade intelectual.
+O contrato que você gera pode ser usado livremente por você em sua atividade profissional, inclusive editado e assinado. Você não pode revender o gerador nem os modelos de cláusulas como produto próprio.
+8. Disponibilidade e mudanças no serviço
+Trabalhamos para manter o site no ar, mas ele é oferecido "como está", e não garantimos funcionamento ininterrupto ou livre de erros. Podemos atualizar, modificar ou descontinuar recursos. Se descontinuarmos o serviço durante um passe ativo e pago, devolveremos o valor proporcional ao tempo não utilizado.
+9. Limitação de responsabilidade
+Na máxima extensão permitida pela lei, não nos responsabilizamos por prejuízos decorrentes do uso do contrato gerado, incluindo perdas financeiras, disputas com clientes ou contratos considerados inválidos, quando resultarem de informações incorretas fornecidas por você, de uso sem revisão adequada ou de modelo inadequado ao seu caso. Nossa responsabilidade, quando existir, fica limitada ao valor pago pelo passe.
+Nada nestes Termos exclui ou limita direitos que a lei garante ao consumidor e que não possam ser afastados por contrato.
+10. Privacidade
+O tratamento de dados pessoais está descrito na nossa Política de Privacidade. Em resumo: os dados digitados no contrato ficam no seu navegador e não são enviados a nós; recebemos apenas o e-mail e os dados do pagamento necessários para liberar o acesso.
+11. Alterações nestes Termos
+Podemos atualizar estes Termos. A versão em vigor é a publicada nesta página, com a data no topo. Mudanças relevantes serão destacadas no site, e o uso do serviço após a atualização indica concordância com a nova versão. Passes já pagos seguem as condições vigentes na data da compra.
+12. Lei aplicável e foro
+Estes Termos são regidos pelas leis do Brasil. Se você usar o serviço como consumidor, fica eleito o foro do seu domicílio. Nos demais casos, fica eleito o foro da comarca de [Duque de Caxias/RJ].
+13. Contato
+Dúvidas, pedidos de reembolso ou suporte: contatodevcoreinovacoes@gmail.com
