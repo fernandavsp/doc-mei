@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { X, Copy, Check, Loader2 } from "lucide-react";
+import { track } from "@vercel/analytics";
 import { PRICE_LABEL, PASS_HOURS } from "./config.js";
 
 const GENERIC_ERROR =
@@ -16,6 +17,10 @@ export default function Checkout({ onClose, onPaid }) {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [copied, setCopied] = useState(false);
+
+  useEffect(() => {
+    track("checkout_aberto");
+  }, []);
 
   const onPaidRef = useRef(onPaid);
   onPaidRef.current = onPaid;
@@ -40,6 +45,7 @@ export default function Checkout({ onClose, onPaid }) {
         return;
       }
       setPix(data);
+      track("pix_criado");
     } catch {
       setError(GENERIC_ERROR);
     } finally {
@@ -67,7 +73,10 @@ export default function Checkout({ onClose, onPaid }) {
 
         if (data.valid) {
           const ok = await onPaidRef.current(pix.id);
-          if (ok) stopped = true;
+          if (ok) {
+            stopped = true;
+            track("pix_aprovado");
+          }
         } else if (DEAD_STATUSES.includes(data.status)) {
           stopped = true;
           setPix(null);
